@@ -1,0 +1,47 @@
+{
+    "name": "Ford WebApp",
+    "short_name": "CWA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./icons/icon01.png",
+            "type": "image/png", "sizes": "128x128"
+        },
+        {
+            "src": "./icons/icon02.png",
+            "type": "image/png", "sizes": "96x96"
+        },
+        {
+            "src": "./icons/icon03.png",
+            "type": "image/png", "sizes": "80x80"
+        },
+        {
+            "src": "./icons/icon04.png",
+            "type": "image/png", "sizes": "72x72"
+        },
+        {
+            "src": "./icons/icon05.png",
+            "type": "image/png", "sizes": "64x64"
+        },
+        {
+            "src": "./icons/icon06.png",
+            "type": "image/png", "sizes": "48x48"
+        },
+        {
+            "src": "./icons/icon07.png",
+            "type": "image/png", "sizes": "32x32"
+        },
+        {
+            "src": "./icons/icon08.png",
+            "type": "image/png", "sizes": "24x24"
+        },
+        {
+            "src": "./icons/icon09.png",
+            "type": "image/png", "sizes": "16x16"
+        }
+    ]
+}
